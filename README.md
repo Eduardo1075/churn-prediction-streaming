@@ -1,4 +1,4 @@
-# Desafio 06 - Previsão de Churn em Streaming
+# Previsão de Churn em Streaming
 
 Este projeto consiste na análise e modelagem preditiva de dados de uma plataforma de streaming, visando prever a evasão de clientes (Churn) com base em variáveis demográficas e de comportamento.
 
